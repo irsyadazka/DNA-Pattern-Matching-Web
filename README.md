@@ -10,9 +10,9 @@
 ## Member
 | No. | Name | Student ID |
 | :---: | :---: | :---: |
-| 1. | Arik Rayi Arkananta | 13520048 |
-| 2. | Januar Budi Ghifari | 13520132 | 
-| 3. | Yoseph Alexander Siregar | 13520141 |
+| 1. | Irsyad Azka| 13520107 |
+| 2. | Yoseph Alexander Siregar | 13520141 |
+| 3. | Aloysius Gilang | 13520147 |
 
 ## General Information
 #### Program ini dibuat untuk memenuhi tuntutan tugas besar tiga strategi algoritma (IF2211) semester 4.
